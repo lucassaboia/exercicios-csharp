@@ -1,0 +1,14 @@
+C:\Users\conta\Desktop\Stopwatch\bin\Debug\net7.0\Csharp-curso.exe
+C:\Users\conta\Desktop\Stopwatch\bin\Debug\net7.0\Csharp-curso.deps.json
+C:\Users\conta\Desktop\Stopwatch\bin\Debug\net7.0\Csharp-curso.runtimeconfig.json
+C:\Users\conta\Desktop\Stopwatch\bin\Debug\net7.0\Csharp-curso.dll
+C:\Users\conta\Desktop\Stopwatch\bin\Debug\net7.0\Csharp-curso.pdb
+C:\Users\conta\Desktop\Stopwatch\obj\Debug\net7.0\Csharp-curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\Desktop\Stopwatch\obj\Debug\net7.0\Csharp-curso.AssemblyInfoInputs.cache
+C:\Users\conta\Desktop\Stopwatch\obj\Debug\net7.0\Csharp-curso.AssemblyInfo.cs
+C:\Users\conta\Desktop\Stopwatch\obj\Debug\net7.0\Csharp-curso.csproj.CoreCompileInputs.cache
+C:\Users\conta\Desktop\Stopwatch\obj\Debug\net7.0\Csharp-curso.dll
+C:\Users\conta\Desktop\Stopwatch\obj\Debug\net7.0\refint\Csharp-curso.dll
+C:\Users\conta\Desktop\Stopwatch\obj\Debug\net7.0\Csharp-curso.pdb
+C:\Users\conta\Desktop\Stopwatch\obj\Debug\net7.0\Csharp-curso.genruntimeconfig.cache
+C:\Users\conta\Desktop\Stopwatch\obj\Debug\net7.0\ref\Csharp-curso.dll

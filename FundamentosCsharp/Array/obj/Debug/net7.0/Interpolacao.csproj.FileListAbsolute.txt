@@ -1,0 +1,14 @@
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\bin\Debug\net7.0\Interpolacao.exe
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\bin\Debug\net7.0\Interpolacao.deps.json
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\bin\Debug\net7.0\Interpolacao.runtimeconfig.json
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\bin\Debug\net7.0\Interpolacao.dll
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\bin\Debug\net7.0\Interpolacao.pdb
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\obj\Debug\net7.0\Interpolacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\obj\Debug\net7.0\Interpolacao.AssemblyInfoInputs.cache
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\obj\Debug\net7.0\Interpolacao.AssemblyInfo.cs
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\obj\Debug\net7.0\Interpolacao.csproj.CoreCompileInputs.cache
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\obj\Debug\net7.0\Interpolacao.dll
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\obj\Debug\net7.0\refint\Interpolacao.dll
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\obj\Debug\net7.0\Interpolacao.pdb
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\obj\Debug\net7.0\Interpolacao.genruntimeconfig.cache
+C:\Users\conta\Desktop\Csharp-Exercicios\Interpolacao\obj\Debug\net7.0\ref\Interpolacao.dll
